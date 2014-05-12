@@ -1,5 +1,5 @@
 #include "WykopSDK.h"
-#include "../include/restclient.h"
+#include "restclient.h"
 
 #include <openssl/md5.h>
 #include <cstring>

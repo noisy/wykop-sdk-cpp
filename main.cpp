@@ -1,10 +1,9 @@
 #include <iostream>
 #include <map>
 #include <string>
-#include "include/restclient.h"
-#include "/usr/include/jsoncpp/json/json.h"
-
-#include "include/WykopSDK.h"
+#include <jsoncpp/json/json.h>
+#include "WykopSDK.h"
+#include "restclient.h"
 
 using namespace std;
 
