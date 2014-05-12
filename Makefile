@@ -1,7 +1,7 @@
 # MAKEFILE
 
 CXX = g++
-CFLAGS = -Wall
+CFLAGS = -std=c++11 -Wall
 
 INCLUDE = -I/usr/local/include
 LDFLAGS = -L/usr/local/lib
